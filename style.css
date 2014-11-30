@@ -1,0 +1,90 @@
+@font-face
+{
+	font-family: "theano";
+	src: url("theano/TheanoDidot-Regular.ttf");
+}
+
+body
+{
+	font-family: "theano";
+	padding: 10px;
+	background: #558c7e;
+}
+
+p
+{
+	margin: 0px;
+}
+
+input
+{
+	width: 99%;
+	border: 1px solid #558c7e;
+}
+
+#selostus
+{
+	height: 400px;
+	width: 99%;
+}
+
+form
+{
+	margin: 20px;
+	vertical-align: top;
+}
+
+#viewForm
+{
+	padding: 40px;
+	display: none;
+	background: #f8e394;
+}
+
+#frontForm
+{
+	background: #f2ae72;
+	padding: 40px;
+	font-size: 150%;
+}
+
+#inputForm
+{
+	background: #d96459;
+	padding: 40px;
+	display: none;
+}
+
+#deleteForm
+{
+	display: none;
+	background: #8c4646;
+	padding: 40px;
+}
+
+#search
+{
+	display: none;
+}
+
+.head
+{
+	margin-top: 40px;
+}
+
+#inputText
+{
+	height: 400px;
+	width: 99%;
+}
+
+.navbar-nav
+{
+	margin: 10px;
+}
+
+.navbar-brand
+{
+	font-size: 150%;
+	margin: 10px;
+}
